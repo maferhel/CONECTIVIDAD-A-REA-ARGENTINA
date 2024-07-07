@@ -1,5 +1,12 @@
-![IMAGEN PORTADA F](https://github.com/maferhel/PI2H/blob/main/DATA/IMAGENES/IMAGEN%20PORTADA%20F.png)
+![IA_0](https://github.com/maferhel/CONECTIVIDAD-AEREA-ARGENTINA/blob/main/IMAGENES/IA_0.jpg)
+
 <h1 align="center">CONECTIVIDAD AÉREA ARGENTINA</h1>
 
+<p align="center">
+🚧 Proyecto actualmente en desarrollo🚧
+</p>
 
-EN DESARROLLO!!
+
+
+
+Más detalles vendrán pronto. ¡Gracias por tu paciencia!
