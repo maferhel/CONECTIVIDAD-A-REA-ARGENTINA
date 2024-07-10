@@ -1,0 +1,256 @@
+AEROPUERTO,OACI,LOCALIDAD,PROVINCIA,PAIS,CONTINENTE,Latitude,Longitude
+Aeropuerto de Sauce Viejo,SAAV,Santa Fe,Santa Fe,Argentina,América del Sur,-31.7117,-60.8117
+Aeropuerto Int. Martín Miguel de Güemes,SASA,Salta,Salta,Argentina,América del Sur,-24.8560009003,-65.4861984253
+Aeropuerto Int. Tte. Luis Candelaria,SAZS,San Carlos de Bariloche,Río Negro,Argentina,América del Sur,-41.151199,-71.157501
+Aeropuerto Int. de Rosario Islas Malvinas,SAAR,Rosario,Santa Fe,Argentina,América del Sur,-32.9036,-60.785
+Aeroparque Jorge Newbery,SABE,Ciudad de Buenos Aires,Ciudad Autónoma de Buenos Aires,Argentina,América del Sur,-34.5592,-58.4156
+Aeropuerto Int. Ingeniero Ambrosio Taravella,SACO,Córdoba,Córdoba,Argentina,América del Sur,-31.323601,-64.208
+Aeropuerto Int. Ministro Pistarini,SAEZ,Ezeiza,Buenos Aires,Argentina,América del Sur,-34.8222,-58.5358
+Aeropuerto Int. El Plumerillo/Gob. Francisco Gabrielli,SAME,Mendoza,Mendoza,Argentina,América del Sur,-32.8316993713,-68.7929000854
+Aeropuerto Int. Tte. Gral. Benjamín Matienzo,SANT,San Miguel de Tucumán,Tucumán,Argentina,América del Sur,-26.8409,-65.104897
+Aeropuerto Int. de Resistencia/José de San Martín,SARE,Resistencia,Chaco,Argentina,América del Sur,-27.45,-59.0561
+Aeropuerto Int. de Puerto Iguazú/My. Carlos E. Krause,SARI,Puerto Iguazú,Misiones,Argentina,América del Sur,-25.737301,-54.4734
+Aeropuerto Int. Gral. Enrique Mosconi,SAVC,Comodoro Rivadavia,Chubut,Argentina,América del Sur,-45.7853,-67.4655
+Brigadier General Antonio Parodi,SAVE,Esquel,Chubut,Argentina,América del Sur,-42.908000946,-71.139503479
+Almirante Zar,SAVT,Trelew,Chubut,Argentina,América del Sur,-43.2105,-65.2703
+Aeropuerto Comte. Armando Tola,SAWC,El Calafate,Santa Cruz,Argentina,América del Sur,-50.2803,-72.053101
+Aeropuerto Int. Piloto Civil Norberto Fernández,SAWG,Río Gallegos,Santa Cruz,Argentina,América del Sur,-51.6089,-69.3126
+Aeropuerto Int. Malvinas Argentinas,SAWH,Ushuaia,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Argentina,América del Sur,-54.8433,-68.2958
+Comandante Espora,SAZB,Bahía Blanca,Buenos Aires,Argentina,América del Sur,-38.725,-62.1693
+Aeropuerto Int. Astor Piazolla,SAZM,Mar del Plata,Buenos Aires,Argentina,América del Sur,-37.9342,-57.5733
+Aeropuerto Int. Presidente Perón,SAZN,Neuquén,Neuquén,Argentina,América del Sur,-38.949001,-68.155701
+Aviador C. Campos,SAZY,San Martín de los Andes,Neuquén,Argentina,América del Sur,-40.075401,-71.137299
+Gral. Urquiza,SAAP,Paraná,Entre Ríos,Argentina,América del Sur,-31.7948,-60.4804
+S.a. Santiago Germano,SAMR,San Rafael,Mendoza,Argentina,América del Sur,-34.588299,-68.4039
+Vcom. Angel De La Paz Aragonés,SANE,Santiago del Estero,Santiago del Estero,Argentina,América del Sur,-27.7655563354,-64.3099975586
+Aeropuerto Int. Termas de Río Hondo,SANH,Rio Hondo,Santiago del Estero,Argentina,América del Sur,-27.4966,-64.93595
+Aeropuerto Cap. Vicente Almandos Amonacid,SANL,La Rioja,La Rioja,Argentina,América del Sur,-29.3815994263,-66.7957992554
+Aeropuerto Domingo Faustino Sarmiento,SANU,San Juan,San Juan,Argentina,América del Sur,-31.571501,-68.418198
+Área De Material,SAOC,Río Cuarto,Córdoba,Argentina,América del Sur,-33.0850982666,-64.2612991333
+Aeropuerto Int. de Formosa/El Pucú,SARF,Formosa,Formosa,Argentina,América del Sur,-26.2127,-58.2281
+Libertador Gral. D. José De San Martín,SARP,Posadas,Misiones,Argentina,América del Sur,-27.3858,-55.9707
+Aeropuerto Int. Gdor. Horacio Guzmán,SASJ,San Salvador de Jujuy,Jujuy,Argentina,América del Sur,-24.392799,-65.097801
+Gobernador Castello,SAVV,Viedma,Río Negro,Argentina,América del Sur,-40.8692,-63.0004
+Río Grande,SAWE,Río Grande,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Argentina,América del Sur,-53.7777,-67.7494
+Capitan Corbeta CA Curbelo International Airport/Laguna del Sauce,SULS,Punta del Este,,Uruguay,América del Sur,-34.855098724365234,-55.09429931640625
+Carrasco International /General C L Berisso Airport,SUMU,Montevideo,,Uruguay,América del Sur,-34.838402,-56.0308
+Silvio Pettirossi International Airport,SGAS,Asunción,,Paraguay,América del Sur,-25.239999771118164,-57.52000045776367
+John F Kennedy International Airport,KJFK,Nueva York,,Estados Unidos,América del Norte,40.63980103,-73.77890015
+Miami International Airport,KMIA,Miami,,Estados Unidos,América del Norte,25.79319953918457,-80.29060363769531
+Barcelona International Airport/El Prat,LEBL,Barcelona,,España,Europa,41.2971,2.07846
+Cancún International Airport,MMUN,Cancún,,México,América del Norte,21.036500930800003,-86.8770980835
+Hercílio Luz International Airport,SBFL,Florianópolis,,Brasil,América del Sur,-27.670278549194336,-48.5525016784668
+Rio Galeão – Tom Jobim International Airport,SBGL,Río de Janeiro,,Brasil,América del Sur,-22.8099994659,-43.2505569458
+Guarulhos - Governador André Franco Montoro International Airport,SBGR,São Paulo,,Brasil,América del Sur,-23.435556411743164,-46.47305679321289
+Porto Seguro Airport,SBPS,Porto Seguro,,Brasil,América del Sur,-16.438601,-39.080898
+Deputado Luiz Eduardo Magalhães International Airport,SBSV,Salvador,,Brasil,América del Sur,-12.9086112976,-38.3224983215
+Comodoro Arturo Merino Benítez International Airport,SCEL,Santiago,,Chile,América del Sur,-33.393001556396484,-70.78579711914062
+El Dorado International Airport,SKBO,Bogotá,,Colombia,América del Sur,4.70159,-74.1469
+Viru Viru International Airport,SLVR,Santa Cruz de la Sierra,,Bolivia,América del Sur,-17.6448,-63.135399
+Jorge Chávez International Airport,SPJC,Lima,,Perú,América del Sur,-12.02185,-77.11433
+Adolfo Suárez Madrid–Barajas Airport,LEMD,Madrid,,España,Europa,40.471926,-3.56264
+Charles de Gaulle International Airport,LFPG,París,,Francia,Europa,49.012798,2.55
+Auckland International Airport,NZAA,Auckland,,Nueva Zelandia,Oceanía,-37.0080986023,174.792007446
+Leonardo da Vinci (Fiumicino) International Airport,LIRF,Roma,,Italia,Europa,41.8002778,12.2388889
+Dallas Fort Worth International Airport,KDFW,Dallas-Fort Worth,,Estados Unidos,América del Norte,32.896801,-97.038002
+Aeropuerto Internacional Afonso Pena,SBCT,Curitiba,,Brasil,América del Sur,-25.5284996033,-49.1758003235
+Salgado Filho Airport,SBPA,Porto Alegre,,Brasil,América del Sur,-29.994400024414062,-51.1713981628418
+London Heathrow Airport,EGLL,Londres,,Reino Unido de Gran Bretaña e Irlanda del Norte,Europa,51.4706,-0.461941
+Tocumen International Airport,MPTO,Panamá,,Panamá,América Central y Caribe,9.0713596344,-79.3834991455
+Jardines Del Rey Airport,MUCC,Cayo Coco,,Cuba,América Central y Caribe,22.4610004425,-78.32839965820001
+Hartsfield Jackson Atlanta International Airport,KATL,Atlanta,,Estados Unidos,América del Norte,33.6367,-84.428101
+Presidente Juscelino Kubitschek International Airport,SBBR,Brasilia,,Brasil,América del Sur,-15.86916732788086,-47.92083358764648
+Aeropuerto de Sunchales,SAFS,Sunchales,Santa Fe,Argentina,América del Sur,-30.9575,-61.5283
+El Tehuelche,SAVY,Puerto Madryn,Chubut,Argentina,América del Sur,-42.7592,-65.1027
+Catamarca,SANC,San Fernando del Valle de Catamarca,Catamarca,Argentina,América del Sur,-28.5956001282,-65.751701355
+Brig. Mayor D. César Raul Ojeda,SAOU,San Luis,San Luis,Argentina,América del Sur,-33.2732009888,-66.3563995361
+Aeropuerto Int. Dr. Fernando Piragine Niveyro,SARC,Corrientes,Corrientes,Argentina,América del Sur,-27.4455,-58.7619
+Santa Rosa,SAZR,Santa Rosa,La Pampa,Argentina,América del Sur,-36.588299,-64.275703
+Punta Cana International Airport,MDPC,Punta Cana,,República Dominicana,América Central y Caribe,18.5673999786,-68.36340332030001
+Licenciado Benito Juarez International Airport,MMMX,México DF,,México,América del Norte,19.4363,-99.072098
+Aeropuerto Internacional de Maiquetía Simón Bolívar,SVMI,Caracas,,Venezuela,América del Sur,10.601194,-66.991222
+Amsterdam Airport Schiphol,EHAM,Amsterdam,,Países Bajos,Europa,52.308601,4.76389
+Frankfurt am Main International Airport,EDDF,Frankfurt am Main,,Alemania,Europa,50.033333,8.570556
+George Bush Intercontinental Houston Airport,KIAH,Houston,,Estados Unidos,América del Norte,29.984399795532227,-95.34140014648438
+Dallas Love Field Airport,KDAL,Dallas,,Estados Unidos,América del Norte,32.847099,-96.851799
+Aeropuerto Internacional de Múnich-Franz Josef Strauss,EDDM,Munich,,Alemania,Europa,48.353802,11.7861
+Pdte. carlos Ibañez del Campo Airport,SCCI,Punta Arenas,,Chile,América del Sur,-53.002602,-70.854599
+Aeropuerto Jalil Hamer,SAWP,Perito Moreno,Santa Cruz,Argentina,América del Sur,-46.537899,-70.978699
+William P. Hobby Airport,KHOU,Houston,,Estados Unidos,América del Norte,29.64539909,-95.27890015
+Aeropuerto El Jagüel,SUPE,Punta del Este,,Uruguay,América del Sur,-34.9169998169,-54.9169998169
+Jorge Wilsterman International Airport,SLCB,Cochabamba,,Bolivia,América del Sur,-17.421100616455078,-66.1771011352539
+Guararapes - Gilberto Freyre International Airport,SBRF,Recife,,Brasil,América del Sur,-8.126489639282227,-34.92359924316406
+Diego Aracena Airport,SCDA,Iquique,,Chile,América del Sur,-20.535200119018555,-70.1812973022461
+José Martí International Airport,MUHA,La Habana,,Cuba,América Central y Caribe,22.989200592041016,-82.40910339355469
+Pinto Martins International Airport,SBFZ,Fortaleza,,Brasil,América del Sur,-3.776279926300049,-38.53260040283203
+Governador Aluízio Alves International Airport,SBSG,Natal,,Brasil,América del Sur,-5.768056,-35.376111
+Viracopos International Airport,SBKP,São Paulo,,Brasil,América del Sur,-23.0074005127,-47.1344985962
+Cabo Frio Airport,SBCB,Cabo Frio,,Brasil,América del Sur,-22.921699523900003,-42.0742988586
+Zumbi dos Palmares Airport,SBMO,Maceió,,Brasil,América del Sur,-9.510809898376465,-35.79169845581055
+Reconquista,SATR,Reconquista,Santa Fe,Argentina,América del Sur,-29.2103,-59.68
+Islas Malvinas,EGYP,Puerto Argentino,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Argentina,América del Sur,-51.82279968261719,-58.44720077514648
+Mariscal Sucre International Airport,SEQM,Quito,,Ecuador,América del Sur,-0.129166666667,-78.3575
+London City Airport,EGLC,Londres,,Reino Unido de Gran Bretaña e Irlanda del Norte,Europa,51.505299,0.055278
+Panama City-Bay Co International Airport,KPFN,Panama City,,Estados Unidos,América del Norte,30.212099,-85.6828
+Eduardo Gomes International Airport,SBEG,Manaus,,Brasil,América del Sur,-3.038609981536865,-60.04970169067383
+Aeropuerto Internacional Augusto Severo,SBNT,Parnamirim,,Brasil,América del Sur,-5.91141986847,-35.2476997375
+Chacalluta Airport,SCAR,Arica,,Chile,América del Sur,-18.348499,-70.338699
+General en Jefe Santiago Mariño International Airport,SVMG,Porlamar,,Venezuela,América del Sur,10.912603378295898,-63.96659851074219
+Aeropuerto de Congonhas,SBSP,São Paulo,,Brasil,América del Sur,-23.626110076904297,-46.65638732910156
+Coronel FAP Francisco Secada Vignetta International Airport,SPQT,Iquitos,,Perú,América del Sur,-3.7847399711608887,-73.30879974365234
+Aeropuerto Int. Comod. Ricardo Salomón,SAMM,Malargue,Mendoza,Argentina,América del Sur,-35.493598938,-69.5743026733
+La Florida Airport,SCSE,La Serena,,Chile,América del Sur,-29.916201,-71.199501
+Aeropuerto Metropolitano,SVMP,Ocumare del Tuy,,Venezuela,América del Sur,10.133169174194336,-66.78782653808594
+Antiguo Aeropuerto Internacional Mariscal Sucre,SEQU,Quito,,Ecuador,América del Sur,-0.14115,-78.48820
+Tancredo Neves International Airport,SBCF,Belo Horizonte,,Brasil,América del Sur,-19.62444305419922,-43.97194290161133
+Aeropuerto El Palomar,SADP,El Palomar,Buenos Aires,Argentina,América del Sur,-34.6099,-58.6126
+Cascavel Airport,SBCA,Cascavel,,Brasil,América del Sur,-25.0002994537,-53.5008010864
+Cerro Largo International Airport,SUMO,Melo,,Uruguay,América del Sur,-32.33789825439453,-54.21670150756836
+Fort Lauderdale Hollywood International Airport,KFLL,Fort Lauderdale,,Estados Unidos,América del Norte,26.072599,-80.152702
+El Alto International Airport,SLLP,La Paz,,Bolivia,América del Sur,-16.5132999420166,-68.19229888916016
+Atlas Brasil Cantanhede Airport,SBBV,Boa Vista,,Brasil,América del Sur,2.84138894081,-60.6922225952
+Aeropuerto Internacional de Santiago de Cuba,MUCU,Santiago de Cuba,,Cuba,América Central y Caribe,19.96980094909668,-75.83540344238281
+Guardiamarina Zañartu Airport,SCGZ,Puerto Williams,,Chile,América del Sur,-54.93109893798828,-67.62629699707031
+St Martin De Londres Airport,LFNL,Mende,,Francia,Europa,43.7999,3.78200
+Cataratas International Airport,SBFI,Foz Do Iguaçu,,Brasil,América del Sur,-25.60027885437012,-54.48500061035156
+Las Américas International Airport,MDSD,Santo Domingo,,República Dominicana,América Central y Caribe,18.42970085144,-69.668899536133
+Samaná El Catey International Airport,MDCY,Samana,,República Dominicana,América Central y Caribe,19.2670001984,-69.7419967651
+Presidente Castro Pinto International Airport,SBJP,João Pessoa,,Brasil,América del Sur,-7.145833015440001,-34.9486122131
+Los Confines Airport,SCGO,Angol,,Chile,América del Sur,,
+Arroyo Barril Airport,MDAB,Arroyo Barril,,República Dominicana,América Central y Caribe,19.198600769,-69.42980194089999
+Newark Liberty International Airport,KEWR,Nueva York,,Estados Unidos,América del Norte,40.692501068115234,-74.168701171875
+Guarani International Airport,SGES,Ciudad del Este,,Paraguay,América del Sur,-25.454516,-54.842682
+Ponta Pelada Airport,SBMN,Manaus,,Brasil,América del Sur,-3.1460399627685547,-59.98630142211914
+Fulton County Airport - Brown Field,KFTY,Atlanta,,Estados Unidos,América del Norte,33.7790985107,-84.5214004517
+Casa De Campo International Airport,MDLR,La Romana,,República Dominicana,América Central y Caribe,18.45070075988769,-68.91179656982422
+Frank Pais International Airport,MUHG,Holguin,,Cuba,América Central y Caribe,20.785600662231445,-76.31510162353516
+Pampulha - Carlos Drummond de Andrade Airport,SBBH,Belo Horizonte,,Brasil,América del Sur,-19.85120010375977,-43.95059967041016
+Gregorio Luperon International Airport,MDPP,Puerto Plata,,República Dominicana,América Central y Caribe,19.75790023803711,-70.56999969482422
+Carriel Sur Airport,SCIE,Concepcion,,Chile,América del Sur,-36.772701,-73.063103
+Birmingham International Airport,EGBB,Birmingham,,Reino Unido de Gran Bretaña e Irlanda del Norte,Europa,52.4538993835,-1.74802994728
+Tte. Julio Gallardo Airport,SCNT,Puerto Natales,,Chile,América del Sur,-51.67150115966797,-72.52839660644531
+Ministro Victor Konder International Airport,SBNF,Navegantes,,Brasil,América del Sur,-26.879999,-48.651402
+Santa Maria Airport,SBAR,Aracaju,,Brasil,América del Sur,-10.984000206,-37.0703010559
+Playa Airport,SPPL,Trismaje,,Perú,América del Sur,,"-76.48050,-8.51782"""
+Andrés Sabella Gálvez International Airport,SCFA,Antofagasta,,Chile,América del Sur,-23.444501,-70.445099
+Ciampino–G. B. Pastine International Airport,LIRA,Rome,,Italia,Europa,41.7994,12.5949
+London Gatwick Airport,EGKK,Londres,,Reino Unido de Gran Bretaña e Irlanda del Norte,Europa,51.148102,-0.190278
+Aeródromo de Río Mayo,SAWM,Río Mayo,Chubut,Argentina,América del Sur,-45.70242,-70.24502
+Santa Cruz Air Force Base,SBSC,Rio de Janeiro,,Brasil,América del Sur,-22.9324,-43.719101
+Fernando de Noronha Airport,SBFN,Fernando De Noronha,,Brasil,América del Sur,-3.85493,-32.423302
+Hato International Airport,TNCC,Willemstad,,Curazao,,12.1889,-68.959801
+Aeropuerto Santos Dumont,SBRJ,Río de Janeiro,,Brasil,América del Sur,-22.9104995728,-43.1631011963
+Lester B. Pearson International Airport,CYYZ,Toronto,,Canadá,América del Norte,43.6772003174,-79.63059997559999
+Ernesto Cortissoz International Airport,SKBQ,Barranquilla,,Colombia,América del Sur,10.8896,-74.7808
+Rafael Nuñez International Airport,SKCG,Cartagena,,Colombia,América del Sur,10.4424,-75.513
+La Escondida Airport,SCLE,Antofagasta,,Chile,América del Sur,-24.29382,-69.13187
+El Salvador Airport,SLEV,Ballivian,,Bolivia,América del Sur,-14.49787,-66.76254
+Licenciado Manuel Crescencio Rejon Int Airport,MMMD,Mérida,,México,América del Norte,20.9370002747,-89.657699585
+EMBRAER - Unidade Gavião Peixoto Airport,SBGP,Gavião Peixoto,,Brasil,América del Sur,-21.773700714111328,-48.40510177612305
+Downsview Airport,CYZD,Toronto,,Canadá,América del Norte,43.74250030517578,-79.4655990600586
+Queen Beatrix International Airport,TNCA,Oranjestad,,Aruba,América Central y Caribe,12.5014,-70.015198
+Chépica Airport,SCEK,Chepica,,Chile,América del Sur,-34.67963,-71.28477
+Bartolomeu Lisandro Airport,SBCP,Campos Dos Goytacazes,,Brasil,América del Sur,-21.698299408,-41.301700592
+José Joaquín de Olmedo International Airport,SEGU,Guayaquil,,Ecuador,América del Sur,-2.15741991997,-79.88359832760001
+Zürich International Airport,LSZH,Zurich,,Suiza,Europa,47.464699,8.54917
+Jacarepaguá - Roberto Marinho Airport,SBJR,Rio De Janeiro,,Brasil,América del Sur,-22.987499,-43.369999
+Los Angeles International Airport,KLAX,Los Angeles,,Estados Unidos,América del Norte,33.94250107,-118.4079971
+Aeropuerto Coronel Felipe Varela,SANC,San Fernando del Valle de Catamarca,Catamarca,Argentina,América del Sur,-28.5956001282,-65.751701355
+Aeropuerto Teniente Daniel Jukic,SATR,Reconquista,Santa Fe,Argentina,América del Sur,-29.2103,-59.68
+Aeropuerto Gdor. Ramon Trejo Noel,SAWE,Río Grande,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Argentina,América del Sur,-53.7777,-67.7494
+Barranca Airport,SPBA,Barranca,,Perú,América del Sur,-10.75,-77.76700
+King Phalo Airport,FAEL,East London,,Sudáfrica,África,-33.0355987549,27.8258991241
+Lakefront Airport,KNEW,Nueva Orleans,,Estados Unidos,América del Norte,30.042400360107,-90.028297424316
+Alfonso Bonilla Aragon International Airport,SKCL,Cali,,Colombia,América del Sur,3.54322,-76.3816
+Lübeck Blankensee Airport,EDHL,Lübeck,,Alemania,Europa,53.8054008484,10.7192001343
+Bacacheri Airport,SBBI,Curitiba,,Brasil,América del Sur,-25.4050998688,-49.23199844359999
+Aeropuerto Internacional Capitán FAP Renán Elías Olivera,SPSO,Pisco,,Perú,América del Sur,-13.74489974975586,-76.22029876708984
+Gaillac Lisle Sur Tarn Airport,LFDG,Gaillac,,Francia,Europa,43.88298,1.87428
+Las Aguilas Airport,SCGL,Rapel,,Chile,América del Sur,-34.1699,-71.53187
+Aeropuerto de Palma de Mallorca,LEPA,Palma de Mallorca,,España,Europa,39.551700592,2.73881006241
+Orlando International Airport,KMCO,Orlando,,Estados Unidos,América del Norte,28.429399490356445,-81.30899810791016
+Orlando Sanford International Airport,KSFB,Orlando,,Estados Unidos,América del Norte,28.7775993347168,-81.23750305175781
+Kingsford Smith International Airport,YSSY,Sydney,,Australia,Oceanía,-33.94609832763672,151.177001953125
+Capitán FAP Guillermo Concha Iberico International Airport,SPUR,Piura,,Perú,América del Sur,-5.20574998856,-80.61640167239999
+Melbourne International Airport,YMML,Melbourne,,Australia,Oceanía,-37.673302,144.843002
+Aeropuerto Internacional Don Mueang,VTBD,Bangkok,,Tailandia,Asia,13.9125995636,100.607002258
+OR Tambo International Airport,FAOR,Johannesburgo,,Sudáfrica,África,-26.1392,28.246
+Aeropuerto Internacional Juan Santamaría,MROC,Alajuela,,Costa Rica,América Central y Caribe,9.993860244750977,-84.20880126953125
+Palonegro Airport,SKBG,Bucaramanga,,Colombia,América del Sur,7.1265,-73.1848
+Aeropuerto Internacional Eloy Alfaro,SEMT,Manta,,Ecuador,América del Sur,-0.9460780024528505,-80.67880249023438
+Sheremetyevo International Airport,UUEE,Moscú,,Rusia,Asia,55.972599,37.4146
+Addis Ababa Bole International Airport,HAAB,Addis Ababa,,Etiopía,África,8.97789001465,38.7993011475
+Aeropuerto Int. de San Fernando,SADF,San Fernando,Buenos Aires,Argentina,América del Sur,-34.4532,-58.5896
+José María Córdova International Airport,SKRG,Medellín,,Colombia,América del Sur,6.16454,-75.4231
+Beijing Capital International Airport,ZBAA,Beijing,,China,Asia,40.0801010131836,116.58499908447266
+Aeropuerto Internacional Marechal Rondon,SBCY,Cuiaba,,Brasil,América del Sur,-15.6528997421,-56.1166992188
+Santa Genoveva Airport,SBGO,Goiânia,,Brasil,América del Sur,-16.631999969482422,-49.220699310302734
+Memphis International Airport,KMEM,Memphis,,Estados Unidos,América del Norte,35.04240036010742,-89.97669982910156
+Milan Malpensa Airport,LIMC,Milán,,Italia,Europa,45.6306,8.72811
+Brisbane Airport,YBBN,Brisbane,,Australia,Oceanía,-27.38419914245605,153.11700439453125
+Vnukovo International Airport,UUWW,Moscow,,Rusia,Europa,55.5914993286,37.2615013123
+Glasgow Airport,EGPF,Glasgow,,Reino Unido de Gran Bretaña e Irlanda del Norte,Europa,55.8718986511,-4.43306016922
+Aeropuerto Juan Simons Vela,SPJA,Rioja,,Perú,América del Sur,-6.067860126495361,-77.16000366210938
+Montréal–Mirabel International Airport,CYMX,Montreal,,Canadá,América del Norte,45.679501,-74.038696
+Montreal / Pierre Elliott Trudeau International Airport,CYUL,Montréal,,Canadá,América del Norte,45.4706001282,-73.7407989502
+Montréal / Saint-Hubert Airport,CYHU,Montréal,,Canadá,América del Norte,45.5175018311,-73.4169006348
+El Loa Airport,SCCF,Calama,,Chile,América del Sur,-22.498199462890625,-68.90360260009766
+Geneva Cointrin International Airport,LSGG,Geneva,,Suiza,Europa,46.23809814453125,6.108950138092041
+Washington Dulles International Airport,KIAD,Washington,,Estados Unidos,América del Norte,38.94449997,-77.45580292
+Bilbao Airport,LEBB,Bilbao,,España,Europa,43.30110168457031,-2.9106099605560303
+Enrique Olaya Herrera Airport,SKMD,Medellín,,Colombia,América del Sur,6.220549,-75.590582
+Aeropuerto Int. Valle del Conlara,SAOS,Merlo,San Luis,Argentina,América del Sur,-32.38448,-65.18570
+Dubai International Airport,OMDB,Dubai,,Emiratos Árabes Unidos,Asia,25.2527999878,55.3643989563
+Adaba Airport,HAAD,Adaba,,Etiopía,África,7.05,39.40000
+Aeropuerto de Gran Canaria,GCLP,Las Palmas,,España,Europa,27.931900024414062,-15.38659954071045
+San José de Sisa Airport,SPSJ,El Dorado,,Perú,América del Sur,-6.61649,-76.68840
+Jorge E. Gonzalez Torres Airport,SKSJ,San José Del Guaviare,,Colombia,América del Sur,2.57969,-72.6394
+Münster Osnabrück Airport,EDDG,Münster,,Alemania,Europa,52.134601593,7.68483018875
+Pinal Airpark,KMZJ,Marana,,Estados Unidos,América del Norte,32.5106010437,-111.32800293
+Pedro Villarroel C. Airport,SCCB,Combarbala,,Chile,América del Sur,-31.22039,-71.07079
+Inca Manco Capac International Airport,SPJL,Juliaca,,Perú,América del Sur,-15.467100143432615,-70.158203125
+Comarapa Airport,SLCR,M. Caballero,,Bolivia,América del Sur,-17.91360092163086,-64.5177993774414
+San José Airport,MGSJ,Puerto San José,,Guatemala,América Central y Caribe,13.9362001419,-90.8358001709
+Joint Base Andrews,KADW,Camp Springs,,Estados Unidos,América del Norte,38.810799,-76.866997
+Aeropuerto de Morón,SADM,Moron,Buenos Aires,Argentina,América del Sur,-34.6763,-58.6428
+La Isabela International Airport,MDJB,La Isabela,,República Dominicana,América Central y Caribe,18.57250022888184,-69.98560333251953
+Hatzfeldhaven Airport,HAZ,Hatzfeldhaven,,Papúa Nueva Guinea,Oceanía,-4.4033,145.20560
+Eurico de Aguiar Salles Airport,SBVT,Vitória,,Brasil,América del Sur,-20.258057,-40.286388
+Amílcar Cabral International Airport,GVAC,Espargos,,Cabo Verde,África,16.7414,-22.9494
+Capitan FAP Carlos Martinez De Pinillos International Airport,SPRU,Trujillo,,Perú,América del Sur,-8.08141040802002,-79.10880279541016
+Juana Azurduy De Padilla Airport,SLSU,Sucre,,Bolivia,América del Sur,-19.007099151611328,-65.2886962890625
+Mobile Downtown Airport,KBFM,Mobile,,Estados Unidos,América del Norte,30.626800537100003,-88.06809997559999
+Chicago O'Hare International Airport,KORD,Chicago,,Estados Unidos,América del Norte,41.9786,-87.9048
+Abel Santamaria Airport,MUSC,Santa Clara,,Cuba,América Central y Caribe,22.49220085144043,-79.943603515625
+Professor Urbano Ernesto Stumpf Airport,SBSJ,São José Dos Campos,,Brasil,América del Sur,-23.22920036315918,-45.86149978637695
+Palm Beach International Airport,KPBI,West Palm Beach,,Estados Unidos,América del Norte,26.68320083618164,-80.09559631347656
+Tapachula International Airport,MMTP,Tapachula,,México,América del Norte,14.7943000793,-92.3700027466
+Rotterdam The Hague Airport,EHRD,Rotterdam,,Países Bajos,Europa,51.956902,4.43722
+Marechal Cunha Machado International Airport,SBSL,São Luís,,Brasil,América del Sur,-2.585360050201416,-44.23410034179688
+Tampa International Airport,KTPA,Tampa,,Estados Unidos,América del Norte,27.975500106811523,-82.533203125
+St Gallen Altenrhein Airport,LSZR,Altenrhein,,Suiza,Europa,47.4850006104,9.560770034789998
+La Estrella Airport,SCRL,Rapel,,Chile,América del Sur,-34.19935,-71.48114
+Rodríguez Ballón International Airport,SPQU,Arequipa,,Perú,América del Sur,-16.3411006927,-71.5830993652
+Comandante Gustavo Kraemer Airport,SBBG,Bagé,,Brasil,América del Sur,-31.39049911499,-54.112201690674
+Padre Aldamiz International Airport,SPTU,Puerto Maldonado,,Perú,América del Sur,-12.6135997772,-69.2285995483
+Salt Lake City International Airport,KSLC,Salt Lake City,,Estados Unidos,América del Norte,40.78839874267578,-111.97799682617188
+Larnaca International Airport,LCLK,Larnarca,,Chipre,Asia,34.875099182128906,33.624900817871094
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,Lisbon,,Portugal,Europa,38.7813,-9.13592
+Cape Town International Airport,FACT,Cape Town,,Sudáfrica,África,-33.9648017883,18.6016998291
+Darwin International Airport,YPDN,Darwin,,Australia,Oceanía,-12.41469955444336,130.8769989013672
+Southwest Florida International Airport,KRSW,Fort Myers,,Estados Unidos,América del Norte,26.53619956970215,-81.75520324707031
+Hamburg Airport,EDDH,Hamburg,,Alemania,Europa,53.630401611328,9.9882297515869
+Baltimore/Washington International Thurgood Marshall Airport,KBWI,Baltimore,,Estados Unidos,América del Norte,39.1754,-76.668297
+Tenerife South Airport,GCTS,Tenerife Island,,España,Europa,28.044500351,-16.5725002289
+Paris-Le Bourget Airport,LFPB,Paris,,Francia,Europa,48.96939849853516,2.441390037536621
+Farnborough Airport,EGLF,Farnborough,,Reino Unido de Gran Bretaña e Irlanda del Norte,Europa,51.2757987976,-0.776332974434
+Santa Ana Airport,SKGO,Cartago,,Colombia,América del Sur,4.75818,-75.9557
+Salto del Guaira Airport,SGGR,Salto del Guaira,,Paraguay,América del Sur,-24.0321,-54.35085
+Matecaña International Airport,SKPE,Pereira,,Colombia,América del Sur,4.81267,-75.7395
+Los Pehuenches Airport,SCLB,Lebu,,Chile,América del Sur,-37.65719,-73.62825
+Guidonia Air Base,LIRG,Guidonia,,Italia,Europa,41.990299,12.7408
+Dounreay/Thurso Airport,EGPY,Thurso,,Reino Unido de Gran Bretaña e Irlanda del Norte,Europa,58.5839005,-3.7269399
+Malta International Airport,LMML,Valletta,,Malta,Europa,35.857498,14.4775
+Prof. Eribelto Manoel Reino State Airport,SBSR,São José Do Rio Preto,,Brasil,América del Sur,-20.8166007996,-49.40650177
+Pucacaca Airport,SPCP,Pucacaca,,Perú,América del Sur,-6.84211,-76.33899
+Camilo Daza International Airport,SKCC,Cúcuta,,Colombia,América del Sur,7.92757,-72.5115
