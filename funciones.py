@@ -400,19 +400,11 @@ def regresion_lineal(DATABASEGENERAL):
 # REGRESIÓN POLINÓMICA
 
 def regresion_polinomica(DATABASEGENERAL):
-    # Eliminar valores nulos
     DATABASEGENERAL = DATABASEGENERAL.dropna()
-    
-    # Convertir la columna 'fecha' a formato datetime
     DATABASEGENERAL['fecha'] = pd.to_datetime(DATABASEGENERAL['fecha'])
-    
-    # Crear una columna de días desde la fecha mínima
     DATABASEGENERAL['dias'] = (DATABASEGENERAL['fecha'] - DATABASEGENERAL['fecha'].min()).dt.days
-    
-    # Dividir los datos en conjuntos de entrenamiento y prueba
     X = DATABASEGENERAL[['dias']]
     
-    # Predecir pasajeros
     y_pasajeros = DATABASEGENERAL['pasajeros']
     X_train, X_test, y_train_pasajeros, y_test_pasajeros = train_test_split(X, y_pasajeros, test_size=0.2, random_state=42)
     poly = PolynomialFeatures(degree=2)
@@ -423,13 +415,11 @@ def regresion_polinomica(DATABASEGENERAL):
     y_train_pred_pasajeros = model_poly.predict(X_poly_train)
     y_test_pred_pasajeros = model_poly.predict(X_poly_test)
     
-    # Métricas para pasajeros
     r2_train_pasajeros = r2_score(y_train_pasajeros, y_train_pred_pasajeros)
     mse_train_pasajeros = mean_squared_error(y_train_pasajeros, y_train_pred_pasajeros)
     r2_test_pasajeros = r2_score(y_test_pasajeros, y_test_pred_pasajeros)
     mse_test_pasajeros = mean_squared_error(y_test_pasajeros, y_test_pred_pasajeros)
     
-    # Predecir vuelos
     y_vuelos = DATABASEGENERAL['vuelos']
     X_train, X_test, y_train_vuelos, y_test_vuelos = train_test_split(X, y_vuelos, test_size=0.2, random_state=42)
     X_poly_train_vuelos = poly.fit_transform(X_train)
@@ -439,24 +429,19 @@ def regresion_polinomica(DATABASEGENERAL):
     y_train_pred_vuelos = model_poly_vuelos.predict(X_poly_train_vuelos)
     y_test_pred_vuelos = model_poly_vuelos.predict(X_poly_test_vuelos)
     
-    # Métricas para vuelos
     r2_train_vuelos = r2_score(y_train_vuelos, y_train_pred_vuelos)
     mse_train_vuelos = mean_squared_error(y_train_vuelos, y_train_pred_vuelos)
     r2_test_vuelos = r2_score(y_test_vuelos, y_test_pred_vuelos)
     mse_test_vuelos = mean_squared_error(y_test_vuelos, y_test_pred_vuelos)
     
-    # Predecir el 31 de diciembre de 2024
     future_date = pd.to_datetime('2024-12-31')
     days_future = (future_date - DATABASEGENERAL['fecha'].min()).days
     days_future_poly = poly.transform([[days_future]])
     
-    # Predicción para pasajeros
     predicted_pasajeros = model_poly.predict(days_future_poly)
     
-    # Predicción para vuelos
     predicted_vuelos = model_poly_vuelos.predict(days_future_poly)
     
-    # Resultados
     print(f"R2 (Entrenamiento) Pasajeros: {r2_train_pasajeros}, MSE (Entrenamiento) Pasajeros: {mse_train_pasajeros}")
     print(f"R2 (Prueba) Pasajeros: {r2_test_pasajeros}, MSE (Prueba) Pasajeros: {mse_test_pasajeros}")
     print(f"Predicción de pasajeros para el 31 de diciembre de 2024: {predicted_pasajeros[0]}")
