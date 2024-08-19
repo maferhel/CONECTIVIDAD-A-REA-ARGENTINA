@@ -31,7 +31,7 @@ Dado que la información oficial existente data al 30 de abril de 2024, me resul
   
 Por ello en ésta etapa testee tres modelos de entrenamiento de series temporales, para predecir el comportamiento de los vuelos y pasajeros, a saber: **a.-** Regresión Lineal, **b.-** Regresión Polinómica, y **c.-** Modelo fbprophet, optando por utilizar éste último una vez que evalué las métricas de comportamiento de cada uno de ellos, por resultar el ser más certero en sus predicciones.<br />
   
-Vale decir también que éste modelo genera tres columnas clave para cada fecha predicha:<br />
+Opté por éste último ya que genera tres columnas clave para cada fecha mensual predicha:<br />
   
 - yhat: Es la predicción central o esperada de la cantidad de pasajeros para esa fecha.<br />
 - yhat_lower y yhat_upper: Son los límites inferior y superior del intervalo de confianza para la predicción. Estos valores indican el rango dentro del cual se espera que se encuentre la verdadera cantidad de pasajeros, con un cierto nivel de confianza (normalmente el 80% o 95%, dependiendo de la configuración de Prophet).<br />
